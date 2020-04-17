@@ -1,0 +1,22 @@
+li{
+  color: red;
+  font-size: 12px;
+}
+
+article p{
+  font-weight: bold;
+  text-align: center;
+}
+
+article section p{
+  font-weight: normal;
+  color: red;
+}
+
+.destacado{
+  color: blue;
+}
+
+#titulo-tips{
+text-decoration: underline;
+}
